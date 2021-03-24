@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background: url(https://i.postimg.cc/9F55XrJd/pexels-pixabay-531880.jpg);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.name {
+  font-family: "Playfair Display", serif;
+}
+#btn-container {
+  display: block;
+  box-shadow: 10px 10px 12px 5px #303030;
+  max-width: 450px;
+  margin: auto;
+  border: 2px solid black;
+  background: #d5f3fe;
+  border-radius: 1rem;
+  padding-top: 1rem;
+}
